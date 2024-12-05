@@ -62,7 +62,5 @@ Ensure the pyarmor_runtime.so and __init__.py files are in the same directory as
 
 For any issues, feel free to reach out!
 
-yaml
-Copy code
 
 ---
