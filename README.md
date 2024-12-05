@@ -66,9 +66,3 @@ yaml
 Copy code
 
 ---
-
-### Next Steps
-- Place this `README.md` file in the same directory as your project files.
-- Share the directory as a zip or through a version control platform (e.g., GitHub, GitLab) for easy access by your colleagues.
-
-Let me know if you need further adjustments!
