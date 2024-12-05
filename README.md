@@ -7,7 +7,7 @@ This is a simple GUI-based Python Quiz application.
 
 ## How to Run
 1. Clone this repository.
-2. Place `questions.txt` in the same directory as `Gui Quiz App.py`.
+2. Place `questions.txt` in the same directory as `GuiQuizApp.py`.
 3. Run the app using the following command:
    ```bash
-   python "Gui Quiz App.py"
+   python "GuiQuizApp.py"
